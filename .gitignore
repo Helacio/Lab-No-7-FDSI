@@ -1,0 +1,11 @@
+# Promptfoo
+.promptfoo/
+*.log
+
+# Node
+node_modules/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
